@@ -1,2 +1,2 @@
 # Lesson log-trig
-[![Build status](https://ci.appveyor.com/api/projects/status/51q3bk71fpsp33fe?svg=true)](https://ci.appveyor.com/project/igrkirillov/lesson-settings)
+[![Build status](https://ci.appveyor.com/api/projects/status/8s775ihxedrwi0xm?svg=true)](https://ci.appveyor.com/project/igrkirillov/lesson-log-trig)
