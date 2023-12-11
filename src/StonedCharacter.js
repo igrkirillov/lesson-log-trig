@@ -3,7 +3,7 @@ import Character from "./Character";
 export default class StonedCharacter extends Character {
   constructor(name, type) {
     super(name, type);
-    this.stoned = undefined;
+    this._stoned = undefined;
     this.distance = 1;
   }
 
@@ -17,5 +17,13 @@ export default class StonedCharacter extends Character {
 
   set attack(value) {
     this._attack = value;
+  }
+
+  get stoned() {
+    return this._stoned;
+  }
+
+  set stoned(value) {
+    this._stoned = value;
   }
 }

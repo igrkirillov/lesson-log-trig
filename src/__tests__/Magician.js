@@ -11,7 +11,7 @@ describe('Magician module', () => {
       level: 1,
       _attack: 10,
       defence: 40,
-      stoned: false,
+      _stoned: false,
       distance: 1
     });
   })
